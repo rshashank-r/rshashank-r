@@ -1,8 +1,7 @@
 # 👋 Hi there, I'm Shashank!
 
-🎯 Backend Developer | ☁️ Cloud Enthusiast | 💻 Full Stack Explorer
 
-I’m passionate about solving real-world problems using robust backend systems and smart technology. From designing scalable APIs in Python and Java to deploying intelligent AI models on the cloud — I enjoy creating meaningful digital solutions that make a difference.
+I’m passionate about solving real-world problems through full-stack development and smart technology. From crafting responsive user interfaces with HTML, CSS, JavaScript, and TypeScript to building scalable APIs using Python and Java with Spring Boot — I enjoy creating end-to-end digital solutions that are both intuitive and impactful. I also leverage cloud platforms like GCP and Firebase to deliver intelligent, production-ready applications.
 
 ---
 
