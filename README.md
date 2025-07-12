@@ -23,13 +23,13 @@ I’m passionate about solving real-world problems through full-stack developmen
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shashank-dev&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashank-dev&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rshashank-r&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rshashank-r&theme=dark" />
 </p>
 
 ---
 
-### 📫 Reach Me
+### 📫 Connect with me on
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/shashank-gowda-l-r-8896a6268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
 [![Gmail](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your.shashankgowdar2406@gmail.com)
