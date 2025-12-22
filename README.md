@@ -1,88 +1,127 @@
-# 👋 Hi, I’m Shashank
+# 👋 Hello, I'm Shashank
 
-I am a **final-year engineering student** who enjoys building, experimenting with, and improving **real-world software systems**. My interests span across **full-stack development, machine learning, computer vision, and cloud platforms**, with a strong curiosity about how software behaves in real environments and under real constraints.
+> *Final-year engineering student exploring how software systems behave in the real world.*
 
-Rather than limiting myself to a single domain, I work on **end-to-end projects**—from problem understanding and system design to implementation, testing, and deployment. I enjoy breaking complex ideas into **practical, working solutions** and continuously refining them through iteration.
+I enjoy **building, experimenting, breaking, and improving software systems** that go beyond simple demos. My interests lie at the intersection of **full-stack development, machine learning, computer vision, and cloud platforms**, where systems must be reliable, secure, and adaptable.
 
----
-
-## 🔍 What I Actively Work On
-
-- Designing **complete system flows**, not just isolated features  
-- Experimenting with **AI-driven decision-making systems**  
-- Improving **security, reliability, and scalability** in applications  
-- Learning by **building, failing, debugging, and refining**  
-- Writing code that is **readable, structured, and explainable**
+Instead of limiting myself to one domain, I focus on **end-to-end problem solving**—from understanding the problem and designing the system to implementing, testing, and refining it through real usage and feedback.
 
 ---
 
-## 🛠️ Technologies I Use & Explore
+## 🧭 My Approach to Building Software
 
-### Programming
-- Python, Java, JavaScript, SQL
+I believe good software is not just about features—it is about **decisions, trade-offs, and behavior over time**.
 
-### Backend & APIs
-- Flask, Express , Node
-- REST API design  
-- Authentication flows & role-based access control  
+- I start with **problem understanding**, not tools  
+- I design **complete system flows**, not isolated components  
+- I combine **ML logic with backend safeguards**
+- I focus on **security, reliability, and explainability**
+- I learn by **iterating, refactoring, and improving**
 
-### Frontend
-- HTML, CSS, JavaScript, React  
-- Responsive layouts  
-- User-centric UI design  
+---
 
-### Machine Learning & Computer Vision
+## 🛠️ Technical Toolkit
+
+<details>
+<summary><strong>Programming Languages</strong></summary>
+
+- Python  
+- Java  
+- JavaScript  
+- SQL  
+
+</details>
+
+<details>
+<summary><strong>Backend & APIs</strong></summary>
+
+- Flask, Express, Node
+- RESTful API design  
+- Authentication & role-based access control  
+
+</details>
+
+<details>
+<summary><strong>Frontend</strong></summary>
+
+- HTML, CSS, JavaScript  
+- React  
+- Responsive and user-centric UI design  
+
+</details>
+
+<details>
+<summary><strong>Machine Learning & Computer Vision</strong></summary>
+
 - XGBoost, TensorFlow  
 - OpenCV, MediaPipe  
 - Feature engineering & behavioral analysis  
 
-### Cloud & Developer Tools
+</details>
+
+<details>
+<summary><strong>Cloud & Developer Tools</strong></summary>
+
 - Google Cloud Platform (GCP)  
 - Firebase (Authentication, Firestore)  
-- Docker (basics), GitHub Actions  
+- Docker (basics)  
+- GitHub Actions  
 
-### Databases
-- MySQL, MongoDB  
+</details>
+
+<details>
+<summary><strong>Databases</strong></summary>
+
+- MySQL  
+- MongoDB  
+
+</details>
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Selected Work
 
 ### 🔐 Smart Financial Fraud Detection System
-- Simulates **real banking and UPI transactions**
-- Combines **machine learning with rule-based logic**
-- Detects fraud rings using **IP, device, and behavioral patterns**
-- Implements **transaction blocking, alerts, and verification flows**
-- Focuses on **security, prevention, and explainability**, not just prediction
+A system designed to **simulate real banking and UPI transactions** and analyze them under realistic constraints.
+
+- Machine learning combined with **rule-based decision logic**
+- Fraud ring detection using **IP, device, and behavior patterns**
+- Transaction blocking, alerts, and verification workflows
+- Emphasis on **prevention and explainability**, not just prediction
 
 ---
 
 ### 🚯 AI-Based Littering Management System
-- Detects littering events using **computer vision**
-- Identifies vehicles through **number plate recognition**
-- Designed for **real-world environmental monitoring**
-- Includes **data logging and administrative review** concepts
+A computer vision–based system aimed at **environmental monitoring**.
+
+- Detects littering events from video input
+- Vehicle identification via **number plate recognition**
+- Designed with **real-world deployment** considerations
+- Includes logging and administrative review concepts
 
 ---
 
-### 🌱 Dharma Darshana – Google Solution Challenge
-- Reward-based platform promoting responsible behavior
-- **QR-based activity tracking** and user engagement
-- Cloud-hosted with **authentication and database integration**
-- Designed with both **technical depth and social impact** in mind
+### 🌱 Dharma Darshana — Google Solution Challenge
+A socially focused platform encouraging responsible behavior.
+
+- Reward-based engagement system
+- **QR-based activity tracking**
+- Cloud-hosted with authentication and database integration
+- Designed to balance **technical depth and social impact**
 
 ---
 
-## 📌 How I Use GitHub
+## 📚 How I Use GitHub
 
-- I treat GitHub as a **learning log**, not just a code dump  
-- I push **incremental improvements**, not only final versions  
-- I experiment with **refactors, optimizations, and new ideas**  
-- I document systems so others can **understand, run, and extend them**
+- GitHub is my **engineering notebook**
+- I push **incremental and meaningful updates**
+- I refactor and revisit old code to improve it
+- I document systems so others can **understand and extend them**
+- I use issues and TODOs to track **future improvements**
 
 ---
 
-## 📊 GitHub Activity
+## 📊 Activity & Consistency
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rshashank-r&show_icons=true&theme=github_dark" height="165" />
@@ -91,10 +130,12 @@ Rather than limiting myself to a single domain, I work on **end-to-end projects*
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let’s Connect
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/shashank-gowda-l-r/  
-- 📧 **Email:** rshashank2356@gmail.com  
-- 💻 **GitHub:** https://github.com/rshashank-r  
+- 💼 LinkedIn: https://www.linkedin.com/in/shashank-gowda-l-r/  
+- 📧 Email: rshashank2356@gmail.com  
+- 💻 GitHub: https://github.com/rshashank-r  
 
 ---
+
+⭐ *Always learning, always improving.*
