@@ -18,28 +18,6 @@ I believe good software is not just about features—it is about **decisions, tr
 - I focus on **security, reliability, and explainability**
 - I learn by **iterating, refactoring, and improving**
 
----
-
-## 📊 Activity & Consistency
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rshashank-r&show_icons=true&theme=github_dark" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rshashank-r&theme=dark" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rshashank-r&layout=compact&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=rshashank-r&theme=react-dark" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rshashank-r&theme=darkhub" />
-  </a>
-</p>
 
 ---
 
