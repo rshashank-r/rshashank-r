@@ -22,7 +22,7 @@ Rather than limiting myself to a single domain, I work on **end-to-end projects*
 - Python, Java, JavaScript, SQL
 
 ### Backend & APIs
-- Flask, FastAPI, Spring Boot  
+- Flask, Express , Node
 - REST API design  
 - Authentication flows & role-based access control  
 
