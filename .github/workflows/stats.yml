@@ -1,0 +1,44 @@
+name: Generate Profile Data
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Runs every 12 hours
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      # 1. Generate the Snake Animation
+      - name: generate-snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: rshashank-r
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # 2. Generate Stats Image (No external API dependency)
+      - name: generate-metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: rshashank-r
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kolkata
+          filename: dist/github-metrics.svg
+
+      # 3. Push all generated files to the 'output' branch
+      - name: push-to-output
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
