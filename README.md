@@ -16,11 +16,8 @@
 
 ---
 
-### 📊 Engineering Metrics
-<p align="left">
-  <img src="https://raw.githubusercontent.com/rshashank-r/rshashank-r/output/github-metrics.svg" alt="Metrics" width="100%">
-</p>
-
+### 📊 GitHub Metrics
+# [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/rshashank-r?cardType=level-alternate&fontFamily=Adamina&preferLogin=true)](https://git.io/awesome-stats-card)
 ---
 
 ### 🐍 Contribution Activity
